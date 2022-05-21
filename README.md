@@ -2,7 +2,7 @@
 
 - [Web Dev and Blender Tutorial](#web-dev-and-blender-tutorial)
   - [Setting Up Your Local Environment](#setting-up-your-local-environment)
-    - [Development Environment](#development-environment)
+    - [Development Environment :computer:](#development-environment-computer)
   - [Before You Begin](#before-you-begin)
   - [WSL](#wsl)
   - [Best Way to Get Help](#best-way-to-get-help)
@@ -13,7 +13,7 @@ Since I have already set it up for you. This step should be skippable. But in ca
 
 > Setup for Windows 10 Pro machine in May 2022
 
-### Development Environment
+### Development Environment :computer:
 
 > Restart machine after every step
 
