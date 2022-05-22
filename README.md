@@ -1,7 +1,7 @@
 # Web Dev and Blender Tutorial
 
 - [Web Dev and Blender Tutorial](#web-dev-and-blender-tutorial)
-  - [Before You Begin (Unfinished)](#before-you-begin-unfinished)
+  - [Before You Begin](#before-you-begin)
   - [Setting Up Your Local Environment](#setting-up-your-local-environment)
     - [Development Environment :computer:](#development-environment-computer)
     - [NodeJS :star2:](#nodejs-star2)
@@ -9,11 +9,12 @@
       - [Windows](#windows)
       - [Linux](#linux)
     - [Blender :art:](#blender-art)
+  - [FAQ](#faq)
   - [Best Way to Get Help](#best-way-to-get-help)
 
-## Before You Begin (Unfinished)
+## Before You Begin
 
-> :traffic_light: Make sure all the softwares are setup correctly before beginning
+> :vertical_traffic_light: Make sure all the softwares are setup correctly before beginning
 
 1) Create a GitHub Account: <https://github.com/signup>
 2) Open 'Terminal' and navigate to your desired folder in [WSL](/) using `cd` ( Read [Linux Commands](/) to learn more about `cd` and Read [WSL](/) to learn about basic WSL Linux file structure )  
@@ -30,8 +31,8 @@ git config --global user.email Learning@mangopig.com
 
 > Since this repo is private currently. Please request for collaboration before proceeding
 
-> GitHub has remove the use of password authentication for cloning. Go to [GitHub Settings Page](https://github.com/settings/profile) :arrow_right: Developer settings :arrow_right: Personal access tokens :arrow_right: Generate new token  
-> Check all repo settings and set expiration date :arrow_right: Generate token  
+> :vertical_traffic_light: GitHub has remove the use of password authentication for cloning. Go to [GitHub Settings Page](https://github.com/settings/profile) :arrow_right: Developer settings :arrow_right: Personal access tokens :arrow_right: Generate new token  
+> Check all repo permissions and set expiration date :arrow_right: Generate token<br/><br/>
 > :warning: Save your token in a secure location. You won't see it again!
 
 4) Get a local copy of the existing repo by running:
@@ -148,4 +149,13 @@ sudo apt install git-all
 2) Download LTS Release 2.93.9 (Windows - Installer)
 3) Install accordingly.
 
+## FAQ
+
 ## Best Way to Get Help
+
+If you run into any problems. Try troubleshooting in the following order:
+
+1) Check out the [FAQ](#FAQ) session of the tutorial. See if your question has been asked before.
+2) Look up your question in common social media. Most of the time, an answer can be found with some research on Google or YouTube.
+3) Ask on [StackOverflow](https://stackoverflow.com/questions/ask)
+4) If the question is tutorial specific. [Open an issue on GitHub](https://github.com/MangoPig/Lessons-Bro/issues)
