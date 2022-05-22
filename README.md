@@ -22,7 +22,7 @@
 > :vertical_traffic_light: Make sure all the softwares are setup correctly before beginning
 
 1) Create a GitHub Account: <https://github.com/signup>
-2) Open 'Terminal' and navigate to your desired folder in [WSL](/) using `cd` ( Read [Linux Commands](/) to learn more about `cd` and `mkdir` and Read [WSL](/) to learn about basic WSL Linux file structure )  
+2) Open 'Terminal' and navigate to your desired folder in [WSL](/) using `cd` and `mkdir` ( Read [Linux Commands](/) to learn more about `cd` and `mkdir` and Read [WSL](/) to learn about basic WSL Linux file structure )  
    *Example:* ```cd /home/mangopig/Coding/Learning/NodeJS/```
 
 3) Let Linux know what Github account you're using by running:
