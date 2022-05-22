@@ -1,6 +1,7 @@
 # Web Dev and Blender Tutorial
 
 - [Web Dev and Blender Tutorial](#web-dev-and-blender-tutorial)
+  - [Upload / Update Schedule](#upload--update-schedule)
   - [Before You Begin](#before-you-begin)
   - [Setting Up Your Local Environment](#setting-up-your-local-environment)
     - [Development Environment :computer:](#development-environment-computer)
@@ -11,6 +12,10 @@
     - [Blender :art:](#blender-art)
   - [FAQ](#faq)
   - [Best Way to Get Help](#best-way-to-get-help)
+
+## Upload / Update Schedule
+
+> :calendar: Every Wednesday and Sunday @ 11:00 PM
 
 ## Before You Begin
 
