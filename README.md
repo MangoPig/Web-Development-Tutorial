@@ -22,12 +22,13 @@
 > :vertical_traffic_light: Make sure all the softwares are setup correctly before beginning
 
 1) Create a GitHub Account: <https://github.com/signup>
-2) Open 'Terminal' and navigate to your desired folder in [WSL](/) using `cd` and `mkdir` ( Read [Linux Commands](/) to learn more about `cd` and `mkdir` and Read [WSL](/) to learn about basic WSL Linux file structure )  
+2) Open 'Terminal' and navigate to your desired folder in [WSL](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#wsl) using `cd` and `mkdir` (Read [Linux Commands](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#linux) to learn more about `cd` and `mkdir` and Read [WSL](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#wsl) to learn about basic WSL Linux file structure)  
    *Example:* ```cd /home/mangopig/Coding/Learning/NodeJS/```
 
 3) Let Linux know what Github account you're using by running:
 
-(Change username and email accordingly)
+(Change username and email accordingly)  
+(Read [Git](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#git) to learn more about Git commands )
 
 ```Shell
 git config --global user.name "MangoPig"
@@ -95,7 +96,7 @@ sudo apt update && sudo apt upgrade
 
 6) **Optional:** [Setup **ZSH** and **Oh My Zsh** for themes](https://blog.joaograssi.com/windows-subsystem-for-linux-with-oh-my-zsh-conemu/)
 
-> For more in depth guide on how to use WSL and Linux system. Refer to [WSL](/)
+> For more in depth guide on how to use WSL and Linux system. Refer to [WSL](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01)
 
 ### [NodeJS](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl) :star2:
 
@@ -160,7 +161,7 @@ sudo apt install git-all
 
 If you run into any problems. Try troubleshooting in the following order:
 
-1) Check out the [FAQ](#FAQ) session of the tutorial. See if your question has been asked before.
+1) Check out the [FAQ](#faq) session of the tutorial. See if your question has been asked before.
 2) Look up your question in common social media. Most of the time, an answer can be found with some research on Google or YouTube.
 3) Ask on [StackOverflow](https://stackoverflow.com/questions/ask)
 4) If the question is tutorial specific. [Open an issue on GitHub](https://github.com/MangoPig/Lessons-Bro/issues)
