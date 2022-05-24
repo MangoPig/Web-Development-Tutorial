@@ -29,6 +29,7 @@
     - [Open Source](#open-source)
       - [Pros](#pros)
       - [Cons](#cons)
+      - [Licensing](#licensing)
     - [Git Commands Cheatsheet](#git-commands-cheatsheet)
 
 ## Lesson Video
@@ -203,6 +204,12 @@ Since your code is now out for everyone to test/see/use. It will be hard to crea
 - 🔓 **Security**
 
 Anyone can see what the problem is in your code. Making hacking it super easy. You will need to go extra steps to hide sensitive information and you will always need to be up to date with your software to prevent any security breach.
+
+#### Licensing
+
+One way to protect yourself in the open source environment is to license your code. There are many different licenses out there. Apache and MIT license are the two most popular among the community. I would highly suggest checking out the terms with each license and carefully decide which you would want to use before you start any project.
+
+[This site](https://tldrlegal.com/) gives a very simple and good explanation on each license. Remember to check it out before you open source every project.
 
 ### [Git Commands Cheatsheet](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
