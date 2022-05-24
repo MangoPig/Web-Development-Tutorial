@@ -2,12 +2,15 @@
 
 - [Writing Our First Lines of Code!](#writing-our-first-lines-of-code)
   - [Lesson Video](#lesson-video)
+  - [Why NodeJS](#why-nodejs)
   - [Writing Code](#writing-code)
     - [Text Editors](#text-editors)
     - [Compiler](#compiler)
     - [IDE](#ide)
 
 ## Lesson Video
+
+## Why NodeJS
 
 ## Writing Code
 
