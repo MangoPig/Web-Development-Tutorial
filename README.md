@@ -1,6 +1,6 @@
-# Web Dev and Blender Tutorial
+# Web Dev Tutorial
 
-- [Web Dev and Blender Tutorial](#web-dev-and-blender-tutorial)
+- [Web Dev Tutorial](#web-dev-tutorial)
   - [Upload / Update Schedule](#upload--update-schedule)
   - [Before You Begin](#before-you-begin)
   - [Setting Up Your Local Environment](#setting-up-your-local-environment)
@@ -9,7 +9,6 @@
     - [GitHub :satellite:](#github-satellite)
       - [Windows](#windows)
       - [Linux](#linux)
-    - [Blender :art:](#blender-art)
   - [FAQ](#faq)
   - [Best Way to Get Help](#best-way-to-get-help)
 
@@ -148,12 +147,6 @@ nvm install node
 ```Shell
 sudo apt install git-all
 ```
-
-### Blender :art:
-
-1) [Go to Page](https://www.blender.org/download/lts/2-93/)
-2) Download LTS Release 2.93.9 (Windows - Installer)
-3) Install accordingly.
 
 ## FAQ
 

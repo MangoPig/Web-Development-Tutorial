@@ -1,6 +1,6 @@
-# Understanding WSL and Linux
+# Understanding WSL and Linux and Git
 
-- [Understanding WSL and Linux](#understanding-wsl-and-linux)
+- [Understanding WSL and Linux and Git](#understanding-wsl-and-linux-and-git)
   - [Lesson Video](#lesson-video)
   - [Linux](#linux)
     - [Why Linux?](#why-linux)
