@@ -140,7 +140,7 @@ Interpreted Programming Languages are languages that relies on other languages a
 
 #### Javascript
 
-Javascript is one of the most in demand scripting language in the market currently. Its high flexibility allows it to develop for almost every kind of application that you will use in everyday use. It is an interpreted language from the Google's V8 Engine that is written in C. The V8 engine is responsible for rendering web pages and has since been ported for server (local machine) uses with the addition of **NodeJS**.
+Javascript is one of the most in demand scripting language in the market currently. With the move of many application to transition in to "web app", javascript is essential for developing for the web. Its high flexibility allows it to develop for almost every kind of application that you will use in everyday use. It is an interpreted language from the Google's V8 Engine that is written in C. The V8 engine is responsible for rendering web pages and has since been ported for server (local machine) uses with the addition of **NodeJS**.
 
 ![Javascript](https://www.mikealche.com/wp-content/uploads/2019/07/el_remozado_javascript.imagen.jpg)
 

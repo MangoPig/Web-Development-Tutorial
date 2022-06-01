@@ -31,6 +31,8 @@
       - [Cons](#cons)
       - [Licensing](#licensing)
     - [Git Commands Cheatsheet](#git-commands-cheatsheet)
+  - [Exercise](#exercise)
+    - [Outline](#outline)
 
 ## Lesson Video
 
@@ -319,3 +321,17 @@ One way to protect yourself in the open source environment is to license your co
       </tr>
   </tbody>
 </table>
+
+## Exercise
+
+> Try the exercises before looking up the answer to get the opportunity to practice what you learned in the lesson.
+
+### Outline
+
+1) Navigate and create a new folder in the WSL system
+2) Pull the lessons into your system
+3) Remove push towards the lesson's repo
+4) Push your version of the lesson to a remote repo that you have created
+5) Share the repo with me to get feedback or answers to any questions you might have
+
+> The answer to this exercise will be in the Lesson Video of this lesson

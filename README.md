@@ -16,6 +16,19 @@
 
 > :calendar: Every Wednesday and Sunday @ 11:00 PM
 
+**🆕 Updated: (2022/06/01)**
+
+- Home Page
+  - Best way to learn
+- Basics
+  - Lesson 1
+    - Exercise
+  - Lesson 2
+    - More about Web Dev
+- NodeJS
+  - Lesson 1
+    - First Draft
+
 ## Before You Begin
 
 > :vertical_traffic_light: Make sure all the softwares are setup correctly before beginning
