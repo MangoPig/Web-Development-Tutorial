@@ -30,6 +30,10 @@
 
 ## Lesson Video
 
+> :construction: Lesson Video on its way
+
+<!-- [![Watch the video](https://img.youtube.com/vi/TPrnSACiTJ4/maxresdefault.jpg)](https://youtu.be/TPrnSACiTJ4) -->
+
 ## [How Does a Computer Work?](https://youtu.be/vqs_0W-MSB0)
 
 The first step in becoming an efficient and proper programmer is to understand the tools you're using. You don't need to know how to build it or design it, but understanding the hardware that you are writing your code for will help make sense a lot of difficult concepts and help write more efficient code.
