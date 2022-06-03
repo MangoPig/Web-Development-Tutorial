@@ -102,7 +102,7 @@ sudo apt update && sudo apt upgrade
 ```
 
 5) [Setup Terminal](https://docs.microsoft.com/en-us/windows/terminal/install)
-   1) Download Terminal from Windows Store aPP
+   1) Download Terminal from Windows Store App
    2) Open Settings (Ctrl+,)
    3) Change **Default Profile** to **Ubuntu**
 
