@@ -16,18 +16,22 @@
 
 > :calendar: Every Wednesday and Sunday @ 11:00 PM
 
-**🆕 Updated: (2022/06/01)**
+**🆕 Updated: (2022/06/05)**
 
 - Home Page
   - Best way to learn
 - Basics
   - Lesson 1
-    - Exercise
+    - Added Exercise
   - Lesson 2
     - More about Web Dev
 - NodeJS
   - Lesson 1
-    - First Draft
+    - Finished
+  - Lesson 2
+    - Finished
+  - Lesson 3
+    - String and Numbers
 
 ## Before You Begin
 

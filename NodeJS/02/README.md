@@ -190,6 +190,8 @@ Exit the program by pressing `Ctrl + C`
 
 ## Exercise
 
+> Remember to create the `exercise` folder! Try to not look at the answer before trying on your own!
+
 The exercise aims for you to setup a project and install packages on your own.
 
 1) Initialize a project that runs the start script that runs a index.js file that contains:
@@ -208,3 +210,5 @@ console.log(chalk.red('Hello World!'))
 4) Run the code. Expected output:
 
 ![Answer](https://res.cloudinary.com/imperial-dev/image/upload/v1654152817/Web-Development-Tutorial/NodeJS/Node_2_f6akpo.png)
+
+> This answer to the exercise will be in the `answer` folder in the repository
