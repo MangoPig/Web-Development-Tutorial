@@ -57,7 +57,7 @@ const handleLeap = async (isLeap, year) => {
 			text: `${chalk.bold.green("Success:")} Year ${year} is a leap year!`,
 		})
 	} else {
-		await spinner.success({
+		await spinner.error({
 			text: `${chalk.bold.red(`Failure:`)} Year ${year} is NOT a leap year!`,
 		})
 	}
