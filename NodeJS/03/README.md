@@ -688,13 +688,20 @@ while (condition) {
 Practical Example:
 
 ``` Javascript
-while (i < 5) {
+let i = 0
+while (i < 6) {
   console.log(i)
   i++
 }
 
-/*
-
+/* expected output:
+0
+1
+2
+3
+4
+5
+5
 */
 ```
 
@@ -716,8 +723,18 @@ while (condition);
 Practical Example:
 
 ``` Javascript
-  do{
-    console.log(i)
-    i++
-  } while (i<10)
+let i = 0
+do{
+  console.log(i)
+  i++
+} while (i < 5)
+
+/* expected output:
+0
+1
+2
+3
+4
+4
+*/
 ```

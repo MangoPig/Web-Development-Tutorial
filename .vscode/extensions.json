@@ -2,6 +2,7 @@
     "recommendations": [
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
-        "ms-vscode-remote.remote-wsl"
+        "ms-vscode-remote.remote-wsl",
+        "esbenp.prettier-vscode"
     ]
 }

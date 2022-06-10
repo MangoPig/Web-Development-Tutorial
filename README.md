@@ -16,7 +16,7 @@
 
 > :calendar: Every Wednesday and Sunday @ 11:00 PM
 
-**🆕 Updated: (2022/06/05)**
+**🆕 Updated: (2022/06/10)**
 
 - Home Page
   - Best way to learn
@@ -31,7 +31,8 @@
   - Lesson 2
     - Finished
   - Lesson 3
-    - String and Numbers
+    - First Draft
+    - Exercise
 
 ## Before You Begin
 
