@@ -1,6 +1,6 @@
-# More on Packages, Async Await
+# More on Packages, Async Await, and Typescript
 
-- [More on Packages, Async Await](#more-on-packages-async-await)
+- [More on Packages, Async Await, and Typescript](#more-on-packages-async-await-and-typescript)
   - [Exercise](#exercise)
 
 ## Exercise
@@ -13,6 +13,6 @@
 
 > Remember to use "type": "module"
 
-1) Make a game where two players guess a number and whoever guess the cloest wins.
+1) Using Typescript make a game where two players guess a number and whoever guess the closest wins.
 
 > You can generate a random number using the Math.random() in Javascript. [Read more here](https://www.w3schools.com/jsref/jsref_random.asp)

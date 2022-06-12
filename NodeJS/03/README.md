@@ -41,6 +41,7 @@
       - [For/In Loop](#forin-loop)
     - [While Loop](#while-loop)
       - [Do/While Loop](#dowhile-loop)
+  - [Exercise](#exercise)
 
 ## Lesson Video
 
@@ -737,4 +738,27 @@ do{
 4
 4
 */
+```
+
+## Exercise
+
+1) Using loops and functions, print the following pattern
+
+``` Javascript
+printPyramid(5)
+
+// Expected output
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+```
+
+2) Print the Fibonacci series using loops and functions
+
+> <https://www.mathsisfun.com/numbers/fibonacci-sequence.html>
+
+``` Javascript
+fibonacci(8) // Expected output: 0 1 1 2 3 5 8 13
 ```

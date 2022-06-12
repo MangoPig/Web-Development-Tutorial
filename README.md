@@ -31,8 +31,9 @@
   - Lesson 2
     - Finished
   - Lesson 3
-    - First Draft
-    - Exercise
+    - Finished
+  - Lesson 4
+    - Draft
 
 ## Before You Begin
 
