@@ -762,3 +762,10 @@ printPyramid(5)
 ``` Javascript
 fibonacci(8) // Expected output: 0 1 1 2 3 5 8 13
 ```
+
+3) For a given string, reverse the order of each character
+
+``` Javascript
+reverseString("Cool") //Expected output: "looC"
+reverseString("Hey")  //Expected output: "yeH"
+```

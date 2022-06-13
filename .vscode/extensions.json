@@ -1,8 +1,10 @@
 {
-    "recommendations": [
-        "eg2.vscode-npm-script",
-        "christian-kohler.npm-intellisense",
-        "ms-vscode-remote.remote-wsl",
-        "esbenp.prettier-vscode"
-    ]
+	"recommendations": [
+		"eg2.vscode-npm-script",
+		"christian-kohler.npm-intellisense",
+		"ms-vscode-remote.remote-wsl",
+		"esbenp.prettier-vscode",
+		"dsznajder.es7-react-js-snippets",
+		"xabikos.JavaScriptSnippets"
+	]
 }

@@ -2,6 +2,7 @@
 
 - [Web Dev Tutorial](#web-dev-tutorial)
   - [Upload / Update Schedule](#upload--update-schedule)
+  - [Where to Start](#where-to-start)
   - [Before You Begin](#before-you-begin)
   - [Setting Up Your Local Environment](#setting-up-your-local-environment)
     - [Development Environment :computer:](#development-environment-computer)
@@ -11,15 +12,14 @@
       - [Linux](#linux)
   - [FAQ](#faq)
   - [Best Way to Get Help](#best-way-to-get-help)
+  - [Best Way to Learn](#best-way-to-learn)
 
 ## Upload / Update Schedule
 
 > :calendar: Every Wednesday and Sunday @ 11:00 PM
 
-**🆕 Updated: (2022/06/10)**
+**🆕 Updated: (2022/06/14)**
 
-- Home Page
-  - Best way to learn
 - Basics
   - Lesson 1
     - Added Exercise
@@ -35,18 +35,22 @@
   - Lesson 4
     - Draft
 
+## Where to Start
+
+For beginners, start from reading the [basics](https://github.com/MangoPig/Web-Development-Tutorial/tree/main/Basics/01). You can figure out what kind of languages you want to get into from finishing the basics. If you can't decide after reading the basics. Personally I would suggest starting from [NodeJS](https://github.com/MangoPig/Web-Development-Tutorial/tree/main/NodeJS/01)
+
 ## Before You Begin
 
 > :vertical_traffic_light: Make sure all the softwares are setup correctly before beginning
 
 1) Create a GitHub Account: <https://github.com/signup>
-2) Open 'Terminal' and navigate to your desired folder in [WSL](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#wsl) using `cd` and `mkdir` (Read [Linux Commands](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#linux) to learn more about `cd` and `mkdir` and Read [WSL](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#wsl) to learn about basic WSL Linux file structure)  
+2) Open 'Terminal' and navigate to your desired folder in [WSL](https://github.com/MangoPig/Web-Development-Tutorial/tree/main/NodeJS/01#wsl) using `cd` and `mkdir` (Read [Linux Commands](https://github.com/MangoPig/Web-Development-Tutorial/tree/main/NodeJS/01#linux) to learn more about `cd` and `mkdir` and Read [WSL](https://github.com/MangoPig/Web-Development-Tutorial/tree/main/NodeJS/01#wsl) to learn about basic WSL Linux file structure)  
    *Example:* ```cd /home/mangopig/Coding/Learning/NodeJS/```
 
 3) Let Linux know what Github account you're using by running:
 
 (Change username and email accordingly)  
-(Read [Git](https://github.com/MangoPig/Lessons-Bro/tree/main/NodeJS/01#git) to learn more about Git commands )
+(Read [Git](https://github.com/MangoPig/Web-Development-Tutorial/tree/main/NodeJS/01#git) to learn more about Git commands )
 
 ```Shell
 git config --global user.name "MangoPig"
@@ -176,4 +180,10 @@ If you run into any problems. Try troubleshooting in the following order:
 1) Check out the [FAQ](#faq) session of the tutorial. See if your question has been asked before.
 2) Look up your question in common social media. Most of the time, an answer can be found with some research on Google or YouTube.
 3) Ask on [StackOverflow](https://stackoverflow.com/questions/ask)
-4) If the question is tutorial specific. [Open an issue on GitHub](https://github.com/MangoPig/Lessons-Bro/issues)
+4) If the question is tutorial specific. [Open an issue on GitHub](https://github.com/MangoPig/Web-Development-Tutorial/issues)
+
+## Best Way to Learn
+
+- The lesson videos provided can be watched in 2 times speed. I would highly recommend to watch these videos in a faster playback speed to speed up the process.
+- I also would highly recommend to try every lesson's exercise on your own without getting help. Most of these exercise are doable without much research if you follow the lesson plans.
+- On projects, try to change the project to fit your own taste and style. You will run into unique problems when you tweak things here and there, but learning to solve it on your own will be helpful going forward.
