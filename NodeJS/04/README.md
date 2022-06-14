@@ -8,6 +8,7 @@
     - [Input / Output Streams (IOStreams)](#input--output-streams-iostreams)
     - [Data Validation](#data-validation)
   - [Typescript (<https://www.typescriptlang.org/>)](#typescript-httpswwwtypescriptlangorg)
+    - [Declaring Type](#declaring-type)
   - [Async, Await](#async-await)
   - [Exercise](#exercise)
 
@@ -130,6 +131,24 @@ It should now have created a `tsconfig.json` file in the root of your project. T
 > Unless said otherwise, this is the Typescript config file that we will be using for the rest of this course, feel free to come back to reference this tsconfig file.
 
 Now we are ready to code in Typescript!
+
+### Declaring Type
+
+In typescript, we declare the type of a variable by following this syntax:
+
+``` Typescript
+let variableName: Type = variableValue
+```
+
+Let's test out whether typescript is running properly by assigning a number to a string!
+
+``` Typescript
+let variableA: string
+
+variableA = 5000
+```
+
+It should return this error message: `Type 'number' is not assignable to type 'string'`
 
 ## Async, Await
 
